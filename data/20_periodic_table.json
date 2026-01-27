@@ -1,0 +1,39 @@
+{
+  "elements": [
+    { "atomic_number": 1, "symbol": "H",  "name": "Hydrogen",    "atomic_mass": 1.008,   "period": 1, "group": 1,  "category": "Non-metal",   "state_at_stp": "Gas" },
+    { "atomic_number": 2, "symbol": "He", "name": "Helium",      "atomic_mass": 4.0026,  "period": 1, "group": 18, "category": "Noble gas",  "state_at_stp": "Gas" },
+    { "atomic_number": 3, "symbol": "Li", "name": "Lithium",     "atomic_mass": 6.94,    "period": 2, "group": 1,  "category": "Alkali metal","state_at_stp": "Solid" },
+    { "atomic_number": 4, "symbol": "Be", "name": "Beryllium",   "atomic_mass": 9.0122,  "period": 2, "group": 2,  "category": "Alkaline earth metal","state_at_stp": "Solid" },
+    { "atomic_number": 5, "symbol": "B",  "name": "Boron",       "atomic_mass": 10.81,   "period": 2, "group": 13, "category": "Metalloid",  "state_at_stp": "Solid" },
+    { "atomic_number": 6, "symbol": "C",  "name": "Carbon",      "atomic_mass": 12.011,  "period": 2, "group": 14, "category": "Non-metal",  "state_at_stp": "Solid" },
+    { "atomic_number": 7, "symbol": "N",  "name": "Nitrogen",    "atomic_mass": 14.007,  "period": 2, "group": 15, "category": "Non-metal",  "state_at_stp": "Gas" },
+    { "atomic_number": 8, "symbol": "O",  "name": "Oxygen",      "atomic_mass": 15.999,  "period": 2, "group": 16, "category": "Non-metal",  "state_at_stp": "Gas" },
+    { "atomic_number": 9, "symbol": "F",  "name": "Fluorine",    "atomic_mass": 18.998,  "period": 2, "group": 17, "category": "Halogen",    "state_at_stp": "Gas" },
+    { "atomic_number": 10,"symbol": "Ne", "name": "Neon",        "atomic_mass": 20.180,  "period": 2, "group": 18, "category": "Noble gas",  "state_at_stp": "Gas" },
+    { "atomic_number": 11,"symbol": "Na", "name": "Sodium",      "atomic_mass": 22.990,  "period": 3, "group": 1,  "category": "Alkali metal","state_at_stp": "Solid" },
+    { "atomic_number": 12,"symbol": "Mg", "name": "Magnesium",   "atomic_mass": 24.305,  "period": 3, "group": 2,  "category": "Alkaline earth metal","state_at_stp": "Solid" },
+    { "atomic_number": 13,"symbol": "Al", "name": "Aluminium",   "atomic_mass": 26.982,  "period": 3, "group": 13, "category": "Post-transition metal","state_at_stp": "Solid" },
+    { "atomic_number": 14,"symbol": "Si", "name": "Silicon",     "atomic_mass": 28.085,  "period": 3, "group": 14, "category": "Metalloid",  "state_at_stp": "Solid" },
+    { "atomic_number": 15,"symbol": "P",  "name": "Phosphorus",  "atomic_mass": 30.974,  "period": 3, "group": 15, "category": "Non-metal",  "state_at_stp": "Solid" },
+    { "atomic_number": 16,"symbol": "S",  "name": "Sulfur",      "atomic_mass": 32.06,   "period": 3, "group": 16, "category": "Non-metal",  "state_at_stp": "Solid" },
+    { "atomic_number": 17,"symbol": "Cl", "name": "Chlorine",    "atomic_mass": 35.45,   "period": 3, "group": 17, "category": "Halogen",    "state_at_stp": "Gas" },
+    { "atomic_number": 18,"symbol": "Ar", "name": "Argon",       "atomic_mass": 39.948,  "period": 3, "group": 18, "category": "Noble gas",  "state_at_stp": "Gas" },
+    { "atomic_number": 19,"symbol": "K",  "name": "Potassium",   "atomic_mass": 39.098,  "period": 4, "group": 1,  "category": "Alkali metal","state_at_stp": "Solid" },
+    { "atomic_number": 20,"symbol": "Ca", "name": "Calcium",     "atomic_mass": 40.078,  "period": 4, "group": 2,  "category": "Alkaline earth metal","state_at_stp": "Solid" }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ChatGPT c

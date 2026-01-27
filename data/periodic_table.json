@@ -1,0 +1,25 @@
+{
+  "elements": [
+    {
+      "atomic number" : 1 ,
+      "symbol": "H" ,
+      "name": "Hydrogen" ,
+      "atomic_mass": 1.008 ,
+      "period": 1 ,
+      "group": 1 ,
+      "category" : "Non-metal" ,
+      "state_at_stp": "Gas"
+
+    } ,
+    {
+      "atomic_number": 2,
+      "symbol": "He" ,
+      "name": "Helium" ,
+      "atomic_mass": 4.0026 ,
+      "period": 1,
+      "group": 18,
+      "category": "Noble Gas" ,
+      "state_at_stp": "Gas"
+    }
+  ]
+}
